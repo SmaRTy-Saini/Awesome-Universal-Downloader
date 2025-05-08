@@ -1,0 +1,35 @@
+PRIVACY POLICY
+
+Effective Date: May 8, 2025
+Product: Awesome Universal Downloader
+Developer: SmaRTy Saini Corp.
+Contact: https://github.com/SmaRTy-Saini/
+
+1. INFORMATION WE COLLECT
+Awesome Universal Downloader does not collect or transmit any personally identifiable information (PII). The software operates entirely on your local machine.
+
+2. LICENSE ACTIVATION
+When you activate your license, the application securely connects to Gumroad's licensing API to verify your key. During this process:
+- Your license key is transmitted to Gumroad over a secure HTTPS connection.
+- No other information is collected, stored, or shared by the developer.
+- Locally, license status is stored in encrypted form using industry-standard cryptography.
+
+3. LOCAL DATA
+- The software stores activation status and download logs locally on your computer.
+- No data is uploaded or shared with third parties.
+
+4. THIRD-PARTY SERVICES
+This app uses the following third-party service:
+- Gumroad for license activation.
+
+Refer to Gumroad’s Privacy Policy: https://gumroad.com/privacy
+
+5. CHILDREN'S PRIVACY
+The software is not intended for use by individuals under the age of 13. No personal data is knowingly collected from children.
+
+6. CHANGES TO THIS POLICY
+This policy may be updated from time to time. Updates will be included with future software releases.
+
+7. CONTACT
+For any questions about this Privacy Policy, please visit:
+https://github.com/SmaRTy-Saini/

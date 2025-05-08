@@ -1,0 +1,28 @@
+TERMS OF USE - AWESOME UNIVERSAL DOWNLOADER
+
+By using this software, you agree to comply with the following terms:
+
+1. LEGAL COMPLIANCE
+You must comply with all applicable local, state, national, and international laws and regulations. Use of this software to download or distribute copyrighted material without authorization is strictly prohibited.
+
+2. PERSONAL USE ONLY
+This tool is provided solely for personal, educational, and research purposes. Commercial use, automated scraping, or redistribution of content acquired using this tool is not permitted.
+
+3. LICENSE VERIFICATION
+Activation requires a valid license. Any attempt to bypass or manipulate the activation system is a violation of these Terms and may result in legal consequences.
+
+4. DATA COLLECTION
+The Software does not collect any personally identifiable information. However, license verification is performed online through Gumroad APIs.
+
+5. AVAILABILITY & SUPPORT
+The Licensor reserves the right to update, remove, or disable access to the Software at any time, without prior notice.
+
+6. TERMINATION
+Violation of any of these terms may result in suspension or termination of your license and usage rights.
+
+7. LIABILITY
+You assume full responsibility for any consequences arising from misuse or violation of these Terms. The Licensor disclaims all liability for damages or loss caused by unauthorized or illegal use.
+
+If you do not agree with these Terms, do not use the Software.
+
+© SmaRTy Saini Corp. All rights reserved.
