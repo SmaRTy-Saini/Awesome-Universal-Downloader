@@ -1,44 +1,56 @@
-# Awesome Universal Downloader
+# 🧰 Awesome Universal Downloader
 
-🎥 Download from YouTube, TikTok, Instagram, and more — all in one tool.
+🚀 Download videos and audio from 1000+ websites including **YouTube**, **TikTok**, **Instagram**, and more — right from your desktop.
 
-![App Screenshot](https://public-files.gumroad.com/r8wzgcvy5z91y1m69gngwkjzvo7n)
+> ⚠️ **This app requires a license key to activate.**  
+> 👉 [Buy your license here](https://smartysaini.gumroad.com/l/uztof)
+>
+> ![App Screenshot](https://public-files.gumroad.com/r8wzgcvy5z91y1m69gngwkjzvo7n)
 
-
----
-
-## 🔐 License Required
-
-This app requires a license key to activate.
-
-👉 [Buy License on Gumroad](https://smartysaini.gumroad.com/l/uztof)
 
 ---
 
-## ⚙️ Features
+## 🎯 Features
 
-- MP4, MP3, WebM support
-- Download playlists or single videos
-- Built-in dependency checker (yt-dlp, FFmpeg)
-- Simple dark-themed UI
-- 100% local — no personal data collected
+- 🔽 Download MP4, MP3, WebM, etc.
+- 📦 Supports single videos or playlists
+- 🌑 Clean dark-mode UI
+- 🔐 Built-in license activation (via Gumroad)
+- 🧩 Automatic dependency check (yt-dlp, FFmpeg)
+- 🧾 Encrypted local license storage
+- ✅ 100% local — **no personal data collected**
 
 ---
 
 ## 📥 Download
 
-👉 [Download Latest .exe](https://github.com/SmaRTy-Saini/Awesome-Universal-Downloader/releases)
+👉 [Download the latest version (.exe)](https://github.com/SmaRTy-Saini/Awesome-Universal-Downloader/releases)
 
-No install needed — just run and activate with your license key.
-
----
-
-## 📄 Legal
-
-- For personal/educational use only
-- Do not distribute licensed content
-- Full terms: [TERMS_OF_USE.txt](TERMS_OF_USE.txt) | [LICENSE.txt](LICENSE.txt)
+> No install needed. Just download the `.exe` and double-click to launch.
 
 ---
 
-© 2025 SmaRTy Saini Corp.
+## 🔐 How Licensing Works
+
+- You must activate the app with a valid license key (purchased via Gumroad).
+- Activation requires internet connection once.
+- License is stored securely on your device (no email or personal info collected).
+
+🔗 [Buy License Key on Gumroad](https://smartysaini.gumroad.com/l/uztof)
+
+---
+
+## 📃 Legal
+
+- 🔸 [LICENSE.txt](LICENSE.txt): Commercial license agreement
+- 🔸 [TERMS_OF_USE.txt](TERMS_OF_USE.txt): Usage rules
+- 🔸 [PRIVACY_POLICY.txt](PRIVACY_POLICY.txt): No data collection
+
+This software is for **personal and educational use only**. Do not redistribute or use it to download copyrighted content.
+
+---
+
+If you like this project, please ⭐ star it — it really helps!
+
+
+© 2025 [SmaRTy Saini Corp](https://github.com/SmaRTy-Saini) — All rights reserved.
